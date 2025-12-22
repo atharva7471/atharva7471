@@ -22,9 +22,10 @@ I focus on building a **strong foundation in machine learning, data analysis, an
 
 ## 🌐 Connect With Me
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/atharva7471)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/atharva_7471)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/atharva-bhosale-7471abc)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:atharva7471@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat&logo=gmail&logoColor=white)](mailto:atharva7471@gmail.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-atharva7471-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/atharvabhosale7471)
 
 ---
 
