@@ -234,11 +234,17 @@ React / Next.js, Flask / Python APIs, full-stack applications, and production de
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=atharva7471&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" alt="GitHub Trophies"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atharva7471&theme=tokyonight" width="100%" alt="Profile Summary"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=atharva7471&theme=tokyonight" width="32%" alt="Repos Per Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=atharva7471&theme=tokyonight" width="32%" alt="Most Commit Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=atharva7471&theme=tokyonight&utcOffset=5.5" width="32%" alt="Productive Time"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=atharva7471&bg_color=0d0d0d&color=38bdf8&line=818cf8&point=f8fafc&area=true&area_color=818cf8&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Contribution Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=atharva7471&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Contribution Activity Graph"/>
 
 </div>
 
