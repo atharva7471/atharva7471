@@ -1,163 +1,291 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,100:0f0f15&height=250&section=header&text=ATHARVA%20BHOSALE&fontSize=60&fontColor=ffffff&desc=Digital%20Experience%20and%20ML%20Engineering&descSize=22&descColor=38bdf8&animation=twinkling" width="100%" alt="Hero">
+<!-- ══════════════════ HERO BANNER ══════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,50:0f172a,100:0d0d0d&height=320&section=header&text=ATHARVA%20BHOSALE&fontSize=65&fontColor=f8fafc&fontAlignY=40&desc=Machine%20Learning%20Engineer%20%E2%80%A2%20AI%20Architect%20%E2%80%A2%20Full-Stack%20Builder&descSize=19&descColor=38bdf8&descAlignY=60&animation=fadeIn&stroke=38bdf8&strokeWidth=2" width="100%" alt="Hero Banner"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=20&duration=4000&pause=1000&color=818cf8&center=true&vCenter=true&width=800&height=50&lines=I+build+systems+that+scale,+learn+and+evolve.;Data+↓+Machine+Learning+↓+Generative+AI;Backend+Systems+↓+Full-Stack+Applications" alt="Typing">
+<!-- ══════════════════ ANIMATED TAGLINE ══════════════════ -->
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=22&duration=3500&pause=800&color=818CF8&center=true&vCenter=true&width=900&height=55&lines=I+don%27t+just+write+code.;I+build+systems+that+scale%2C+learn+%26+evolve.;Data+%E2%86%93+Machine+Learning+%E2%86%93+Generative+AI;Backend+Systems+%E2%86%93+Full-Stack+Applications;From+Why+to+How+%E2%80%94+Always." alt="Typing SVG"/>
 
-```text
+<br/>
+
+<!-- ══════════════════ SOCIAL BADGES ══════════════════ -->
+<a href="https://athoofolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/🌐 Portfolio-0f172a?style=for-the-badge&color=0f172a&labelColor=0f172a" alt="Portfolio"/></a>
+<a href="https://linkedin.com/in/atharvabhosale-ai" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=38bdf8&labelColor=0f172a" alt="LinkedIn"/></a>
+<a href="https://github.com/atharva7471" target="_blank"><img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=f8fafc&labelColor=0f172a" alt="GitHub"/></a>
+<a href="https://www.kaggle.com/atharvabhosale7471" target="_blank"><img src="https://img.shields.io/badge/Kaggle-0f172a?style=for-the-badge&logo=kaggle&logoColor=38bdf8&labelColor=0f172a" alt="Kaggle"/></a>
+<a href="mailto:atharva7471@gmail.com"><img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=f87171&labelColor=0f172a" alt="Email"/></a>
+<a href="https://athoofolio.vercel.app/resume" target="_blank"><img src="https://img.shields.io/badge/Resume-0f172a?style=for-the-badge&logo=read-the-docs&logoColor=a78bfa&labelColor=0f172a" alt="Resume"/></a>
+
+<br/><br/>
+<img src="https://komarev.com/ghpvc/?username=atharva7471&color=38bdf8&labelColor=0f172a&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+
+</div>
+
+---
+
+## `01 /` &nbsp; THE ENGINEER
+
+I am a **Machine Learning Engineer** and **Software Architect** obsessed with the intersection of elegant code and intelligent systems. For me, engineering is not about typing syntax — it's about **untangling complexity**.
+
+I approach every problem by asking **"Why?"** before **"How?"**, ensuring that the solutions I build are not just functional, but fundamentally sound.
+
+```
 ATHARVA BHOSALE
  │
- ├── AI / ML
- ├── GENERATIVE AI
- ├── RAG SYSTEMS
- ├── SOFTWARE ENGINEERING
- └── REAL-WORLD APPLICATIONS
+ ├── 🧠  AI / Machine Learning
+ ├── 🤖  Generative AI & RAG Systems
+ ├── ⚙️   Software Engineering
+ ├── 🌐  Full-Stack Web Architecture
+ └── 🚀  Real-World Product Deployment
 ```
 
-<img src="https://komarev.com/ghpvc/?username=atharva7471&color=0f0f15&labelColor=38bdf8&style=for-the-badge&label=SYSTEM+VISITS" alt="Profile Views">
+> *"From raw data to deployed intelligence — end-to-end."*
+
+---
+
+## `02 /` &nbsp; THE ENGINEERING STACK
+
+<div align="center">
+
+### 〔 Languages 〕
+<img src="https://skillicons.dev/icons?i=py,java,cpp&theme=dark" alt="Languages"/>
+
+### 〔 Web Development 〕
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind&theme=dark" alt="Web Dev"/>
+
+### 〔 Backend Frameworks 〕
+<img src="https://skillicons.dev/icons?i=flask,fastapi,django&theme=dark" alt="Backend"/>
+
+### 〔 Databases & DevOps 〕
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,git,github,docker,vscode&theme=dark" alt="Databases & Tools"/>
+
+<br/>
+
+| 🤖 &nbsp; Generative AI & RAG | 📊 &nbsp; Machine Learning |
+|:---|:---|
+| `LangChain` &nbsp; `LangGraph` &nbsp; `LLMs` | `Regression` &nbsp; `Classification` |
+| `AI Agents` &nbsp; `Vector DBs` &nbsp; `Embeddings` | `NumPy` &nbsp; `Pandas` &nbsp; `Scikit-learn` |
+| `RAG Pipelines` &nbsp; `Retrieval Systems` | `PyTorch` &nbsp; `TensorFlow` &nbsp; `Feature Engineering` |
 
 </div>
 
 ---
 
-### 01 / THE ENGINEER
+## `03 /` &nbsp; CURRENT FOCUS
 
-I am a Machine Learning Engineer and Software Architect obsessed with the intersection of elegant code and intelligent systems. For me, engineering is not about typing syntax—it's about untangling complexity. I approach every problem by asking "Why?" before "How?", ensuring that the solutions I build are not just functional, but fundamentally sound.
+<table>
+<tr>
+<td width="33%">
 
-I work at the intersection of:  
-`Data` ↓ `Machine Learning` ↓ `Generative AI` ↓ `Backend Systems` ↓ `Full-Stack Applications` ↓ `Deployment`
+**🧠 Machine Learning**<br/>
+Model development, feature engineering, data analysis, evaluation, and end-to-end ML pipelines.
 
----
+</td>
+<td width="33%">
 
-### 02 / THE ENGINEERING STACK
+**🤖 Generative AI**<br/>
+LLM applications, RAG, embeddings, vector databases, AI agents, and retrieval systems.
 
-<table align="center" style="border: none; background: transparent;">
-  <tr>
-    <td align="center"><b>01 / LANGUAGES</b><br><br><img src="https://skillicons.dev/icons?i=py,java,cpp&theme=dark" /></td>
-    <td align="center"><b>02 / WEB DEV</b><br><br><img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind&theme=dark" /></td>
-  </tr>
-  <tr>
-    <td align="center"><b>03 / BACKEND</b><br><br><img src="https://skillicons.dev/icons?i=flask,fastapi,django&theme=dark" /></td>
-    <td align="center"><b>04 / DATABASES & TOOLS</b><br><br><img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,git,github,docker,vscode&theme=dark" /></td>
-  </tr>
+</td>
+<td width="33%">
+
+**🌐 AI Product Engineering**<br/>
+React / Next.js, Flask / Python APIs, full-stack applications, and production deployment.
+
+</td>
+</tr>
 </table>
 
+---
+
+## `04 /` &nbsp; SELECTED WORK
+
 <div align="center">
-  <b>05 / GENERATIVE AI & RAG</b><br>
-  <code>LangChain</code> <code>LangGraph</code> <code>LLMs</code> <code>Agents</code> <code>Vector DBs</code> <code>Embeddings</code><br><br>
-  <b>06 / MACHINE LEARNING</b><br>
-  <code>Regression</code> <code>Classification</code> <code>Model Development</code> <code>NumPy</code> <code>Pandas</code> <code>Scikit-learn</code> <code>PyTorch</code> <code>TensorFlow</code>
+
+<a href="https://github.com/atharva7471/FortuneCloudBot">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=atharva7471&repo=FortuneCloudBot&theme=transparent&hide_border=true&title_color=38bdf8&text_color=a0aec0&icon_color=818cf8&bg_color=0d0d0d" width="48%"/>
+</a>
+<a href="https://github.com/atharva7471/Movie-Recommender">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=atharva7471&repo=Movie-Recommender&theme=transparent&hide_border=true&title_color=38bdf8&text_color=a0aec0&icon_color=818cf8&bg_color=0d0d0d" width="48%"/>
+</a>
+<a href="https://github.com/atharva7471/CivicFix">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=atharva7471&repo=CivicFix&theme=transparent&hide_border=true&title_color=38bdf8&text_color=a0aec0&icon_color=818cf8&bg_color=0d0d0d" width="48%"/>
+</a>
+<a href="https://github.com/atharva7471/AthoFolioo">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=atharva7471&repo=AthoFolioo&theme=transparent&hide_border=true&title_color=38bdf8&text_color=a0aec0&icon_color=818cf8&bg_color=0d0d0d" width="48%"/>
+</a>
+<a href="https://github.com/atharva7471/UpTrack-Habit-Tracker">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=atharva7471&repo=UpTrack-Habit-Tracker&theme=transparent&hide_border=true&title_color=38bdf8&text_color=a0aec0&icon_color=818cf8&bg_color=0d0d0d" width="48%"/>
+</a>
+<a href="https://github.com/atharva7471/Finance-Tracker">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=atharva7471&repo=Finance-Tracker&theme=transparent&hide_border=true&title_color=38bdf8&text_color=a0aec0&icon_color=818cf8&bg_color=0d0d0d" width="48%"/>
+</a>
+
+</div>
+
+<br/>
+
+<details>
+<summary><b>🔩 Torque Map Generation — Tata Motors Internship</b></summary>
+<br/>
+
+> During my internship at **Tata Motors (Engineering Research Centre, Pune)**, I developed an ML-based **torque demand prediction system** using real vehicle CAN-bus data. I performed data analysis, engineered relevant features from real-world driving behaviour, and built post-processing techniques for smoother driving dynamics. The final model pipeline was integrated directly into the primary controller for testing and virtual deployment.
+>
+> `DATA → FEATURE ENGINEERING → MODEL → POST-PROCESSING → CONTROLLER INTEGRATION`
+>
+> **Stack:** `Python` `Machine Learning` `Vehicle CAN Data` `Automotive AI`
+
+</details>
+
+<details>
+<summary><b>☁️ FortuneCloudBot — Cloud-Native RAG Chatbot</b></summary>
+<br/>
+
+> A highly intelligent, fully cloud-native **Retrieval-Augmented Generation chatbot** for Fortune Cloud Technologies. It answers student queries about courses, placements, and schedules with accurate citations. Features a **Dual-Mode Intelligent Form System** and custom UI.
+>
+> `QUERY → EMBED → RETRIEVE → AUGMENT → GENERATE → CITE`
+>
+> **Stack:** `LangChain` `RAG` `Vector DB` `Python` `React` &nbsp;|&nbsp; [Live Demo](https://fortunecloudbot.vercel.app/) · [GitHub](https://github.com/atharva7471/FortuneCloudBot)
+
+</details>
+
+<details>
+<summary><b>🎬 AthuFlix — Content-Based Movie Recommender</b></summary>
+<br/>
+
+> Content-based movie recommendation using **cosine similarity** with a Flask web interface. Trained on 5,000+ movie records with TF-IDF vectorization and feature extraction.
+>
+> **Stack:** `Python` `Flask` `Scikit-learn` `NLP` &nbsp;|&nbsp; [GitHub](https://github.com/atharva7471/Movie-Recommender)
+
+</details>
+
+<details>
+<summary><b>🏛️ CivicFix — Community Problem Solver</b></summary>
+<br/>
+
+> A civic-tech platform empowering citizens to raise and prioritize issues through **community voting**. Critical problems gain visibility and move toward resolution with measurable impact.
+>
+> **Stack:** `Python` `Flask` `MongoDB` &nbsp;|&nbsp; [Live Demo](https://civicfix-08y1.onrender.com/) · [GitHub](https://github.com/atharva7471/CivicFix)
+
+</details>
+
+---
+
+## `05 /` &nbsp; THE TIMELINE
+
+<div align="center">
+
+```
+──────────────────────────────────────────────────────────────
+  TATA MOTORS  |  Engineering Research Centre, Pune
+  AI / ML Intern  ·  4 Months
+  ─────────────────────────────────────────────────────────────
+  EV Powertrain  ·  CAN Data  ·  Feature Engineering
+  Torque Demand Prediction  ·  ML Models  ·  Post-processing
+──────────────────────────────────────────────────────────────
+  UPTOSKILLS  |  Remote
+  AI / ML Intern  ·  3 Months
+  ─────────────────────────────────────────────────────────────
+  Backend Development  ·  FastAPI  ·  MongoDB  ·  Deployment
+──────────────────────────────────────────────────────────────
+  CODVEDA TECHNOLOGIES  |  Remote
+  AI / ML Intern
+  ─────────────────────────────────────────────────────────────
+  Data Handling  ·  Preprocessing  ·  Feature Engineering
+  Model Development  ·  Evaluation
+──────────────────────────────────────────────────────────────
+```
+
 </div>
 
 ---
 
-### 03 / CURRENT FOCUS
-
-- **MACHINE LEARNING**: Model development, feature engineering, data analysis, model evaluation, and end-to-end ML pipelines.
-- **GENERATIVE AI**: LLM applications, RAG, embeddings, vector databases, AI agents, and retrieval systems.
-- **AI PRODUCT ENGINEERING**: React / Next.js, Flask / Python APIs, full-stack applications, and deployment.
-
----
-
-### 04 / SELECTED WORK
+## `06 /` &nbsp; CREDENTIALS & ACHIEVEMENTS
 
 <div align="center">
-  <a href="https://github.com/atharva7471/FortuneCloudBot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=atharva7471&repo=FortuneCloudBot&theme=transparent&hide_border=true&title_color=38bdf8&text_color=a0aec0&icon_color=818cf8" width="48%" /></a>
-  <a href="https://github.com/atharva7471/Movie-Recommender"><img src="https://github-readme-stats.vercel.app/api/pin/?username=atharva7471&repo=Movie-Recommender&theme=transparent&hide_border=true&title_color=38bdf8&text_color=a0aec0&icon_color=818cf8" width="48%" /></a>
-  <a href="https://github.com/atharva7471/CivicFix"><img src="https://github-readme-stats.vercel.app/api/pin/?username=atharva7471&repo=CivicFix&theme=transparent&hide_border=true&title_color=38bdf8&text_color=a0aec0&icon_color=818cf8" width="48%" /></a>
-  <a href="https://github.com/atharva7471/AthoFolioo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=atharva7471&repo=AthoFolioo&theme=transparent&hide_border=true&title_color=38bdf8&text_color=a0aec0&icon_color=818cf8" width="48%" /></a>
-</div>
 
-<br>
+| 🏆 Achievement | 📋 Details |
+|:---|:---|
+| 🥈 **National Cloud & AI Innovation Challenge** | **Rank 8** |
+| 🏢 **Tata Motors Internship** | Completion Certificate |
+| 🏢 **UptoSkills Internship** | Completion Certificate |
+| ☁️ **NASSCOM Cloud Infrastructure Analyst** | Certified |
+| 🤖 **AWS No-Code ML & Generative AI** | Certified |
+| 🎓 **SIH Internal Selection** | Selected |
 
-#### 01 / SOFTWARE ENGINEERING
-**TORQUE MAP GENERATION** — *Tata Motors Internship Project*  
-ML-based torque demand prediction using vehicle CAN-bus data to achieve smoother driving dynamics.  
-`DATA → MODEL → POST-PROCESSING → CONTROLLER`  
-> **Stack:** Python • ML • Vehicle Data • Automotive AI  
+<a href="https://athoofolio.vercel.app/#achievements">
+  <img src="https://img.shields.io/badge/View%20All%20Certificates-0f172a?style=for-the-badge&logoColor=38bdf8&color=38bdf8" alt="Certificates"/>
+</a>
 
-#### 02 / APPLICATION DEVELOPMENT
-**UPTRACK & FINANCE TRACKING APP**  
-Applications designed to track daily habits, productivity, and personal finance utilizing neural networks and backend frameworks.  
-`DATA ENTRY → PROCESS → VISUALIZE`  
-> **Stack:** Python • TensorFlow • Django • Flask • SQLite  
-
----
-
-### 05 / THE TIMELINE
-
-**Tata Motors (Engineering Research Centre — Pune)**  
-*AI / ML Intern (4 Months)*  
-> Electric Vehicle Powertrain • Vehicle/CAN Data • Feature Engineering • Torque Demand Prediction • ML Models • Post-processing  
-
-**UptoSkills**  
-*AI / ML Intern (3 Months)*  
-> Backend Development • Deployment Pipelines • MongoDB Databases • FastAPI Endpoints  
-
-**Codveda Technologies**  
-*AI / ML Intern*  
-> Data Handling • Data Preprocessing • Feature Engineering • Model Development  
-
----
-
-### 06 / CREDENTIALS
-
-- **Tata Motors Internship Completion**
-- **National Cloud & AI Innovation Challenge** — Rank 8
-- **UptoSkills Internship**
-- **NASSCOM Cloud Infrastructure Analyst**
-- **AWS No-code Machine Learning & Generative AI**
-- **SIH Internal Selection**
-
-*(View complete credentials and certificates on [my portfolio](https://athoofolio.vercel.app/#achievements))*
-
----
-
-### 07 / ANALYTICS
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atharva7471&theme=transparent&hide_border=true&title_color=38bdf8&text_color=a0aec0&icon_color=818cf8&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atharva7471&theme=transparent&hide_border=true&title_color=38bdf8&text_color=a0aec0&icon_color=818cf8" width="48%" alt="GitHub Streak" />
-  
-  <br>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharva7471&layout=compact&theme=transparent&hide_border=true&title_color=38bdf8&text_color=a0aec0" width="48%" alt="Top Languages" />
-  <img src="https://github-contributor-stats.vercel.app/api?username=atharva7471&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="48%" alt="Top Contributed Repositories" />
-
-  <br><br>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/atharva7471/atharva7471/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/atharva7471/atharva7471/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/atharva7471/atharva7471/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
 </div>
 
 ---
 
-### ✍️ DEV QUOTE
+## `07 /` &nbsp; ANALYTICS
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=atharva7471&theme=transparent&hide_border=true&title_color=38bdf8&text_color=a0aec0&icon_color=818cf8&include_all_commits=true&count_private=true&bg_color=0d0d0d&ring_color=818cf8" width="48%" alt="GitHub Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=atharva7471&theme=transparent&hide_border=true&stroke=818cf8&ring=38bdf8&fire=f87171&currStreakLabel=38bdf8&sideLabels=a0aec0&dates=a0aec0&background=0d0d0d" width="48%" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharva7471&layout=compact&theme=transparent&hide_border=true&title_color=38bdf8&text_color=a0aec0&bg_color=0d0d0d&langs_count=8" width="48%" alt="Top Languages"/>
+<img src="https://github-contributor-stats.vercel.app/api?username=atharva7471&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="48%" alt="Top Contributions"/>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/atharva7471/atharva7471/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/atharva7471/atharva7471/output/github-contribution-grid-snake.svg"/>
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/atharva7471/atharva7471/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</picture>
+
 </div>
 
 ---
 
-### 08 / CONNECT
-
-Let's build something.
-
-**Portfolio:** [https://athoofolio.vercel.app/](https://athoofolio.vercel.app/)  
-**LinkedIn:** [https://linkedin.com/in/atharva-bhosale-7471abc](https://linkedin.com/in/atharva-bhosale-7471abc)  
-**GitHub:** [https://github.com/atharva7471](https://github.com/atharva7471)  
-**Kaggle:** [https://www.kaggle.com/atharvabhosale7471](https://www.kaggle.com/atharvabhosale7471)  
-**Email:** [atharva7471@gmail.com](mailto:atharva7471@gmail.com)  
-
-<br>
+## `08 /` &nbsp; DEV PHILOSOPHY
 
 <div align="center">
-  <a href="https://athoofolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=vercel&logoColor=white&color=black&labelColor=0a0a0a" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/atharva-bhosale-7471abc"><img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=38bdf8&color=black&labelColor=0a0a0a" alt="LinkedIn" /></a>
-  <a href="https://github.com/atharva7471"><img src="https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=white&color=black&labelColor=0a0a0a" alt="GitHub" /></a>
-  <a href="https://www.kaggle.com/atharvabhosale7471"><img src="https://img.shields.io/badge/Kaggle-0a0a0a?style=for-the-badge&logo=kaggle&logoColor=38bdf8&color=black&labelColor=0a0a0a" alt="Kaggle" /></a>
-  <a href="mailto:atharva7471@gmail.com"><img src="https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=white&color=black&labelColor=0a0a0a" alt="Email" /></a>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote"/>
 </div>
+
+---
+
+## `09 /` &nbsp; LET'S BUILD SOMETHING
+
+<div align="center">
+
+**📍 Talegaon Dabhade, Pune, India**
+
+<br/>
+
+<a href="https://athoofolio.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐%20athoofolio.vercel.app-0f172a?style=for-the-badge&color=0f172a&labelColor=38bdf8" alt="Portfolio"/>
+</a>
+
+<br/><br/>
+
+<a href="https://linkedin.com/in/atharvabhosale-ai" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0f172a?style=for-the-badge&logo=linkedin&logoColor=38bdf8&labelColor=0f172a" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/atharva7471" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Follow-0f172a?style=for-the-badge&logo=github&logoColor=f8fafc&labelColor=0f172a" alt="GitHub"/>
+</a>
+<a href="https://www.kaggle.com/atharvabhosale7471" target="_blank">
+  <img src="https://img.shields.io/badge/Kaggle-Datasets-0f172a?style=for-the-badge&logo=kaggle&logoColor=38bdf8&labelColor=0f172a" alt="Kaggle"/>
+</a>
+<a href="mailto:atharva7471@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Say%20Hello-0f172a?style=for-the-badge&logo=gmail&logoColor=f87171&labelColor=0f172a" alt="Email"/>
+</a>
+<a href="https://athoofolio.vercel.app/resume" target="_blank">
+  <img src="https://img.shields.io/badge/Resume-Download-0f172a?style=for-the-badge&logo=read-the-docs&logoColor=a78bfa&labelColor=0f172a" alt="Resume"/>
+</a>
+
+<br/><br/>
+
+</div>
+
+<!-- ══════════════════ FOOTER BANNER ══════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0d0d0d&height=130&section=footer&text=Atharva Bhosale&fontSize=22&fontColor=38bdf8&fontAlignY=70&animation=twinkling" width="100%" alt="Footer"/>
