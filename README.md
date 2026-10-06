@@ -231,15 +231,14 @@ React / Next.js, Flask / Python APIs, full-stack applications, and production de
 <br/><br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharva7471&layout=compact&theme=transparent&hide_border=true&title_color=38bdf8&text_color=a0aec0&bg_color=0d0d0d&langs_count=8" width="48%" alt="Top Languages"/>
-<img src="https://github-contributor-stats.vercel.app/api?username=atharva7471&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="48%" alt="Top Contributions"/>
 
 <br/><br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/atharva7471/atharva7471/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/atharva7471/atharva7471/output/github-contribution-grid-snake.svg"/>
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/atharva7471/atharva7471/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</picture>
+<img src="https://github-profile-trophy.vercel.app/?username=atharva7471&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" alt="GitHub Trophies"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=atharva7471&bg_color=0d0d0d&color=38bdf8&line=818cf8&point=f8fafc&area=true&area_color=818cf8&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Contribution Activity Graph"/>
 
 </div>
 
@@ -288,4 +287,4 @@ React / Next.js, Flask / Python APIs, full-stack applications, and production de
 </div>
 
 <!-- ══════════════════ FOOTER BANNER ══════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0d0d0d&height=130&section=footer&text=Atharva Bhosale&fontSize=22&fontColor=38bdf8&fontAlignY=70&animation=twinkling" width="100%" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0d0d0d&height=130&section=footer&text=Atharva%20Bhosale&fontSize=22&fontColor=38bdf8&fontAlignY=70&animation=twinkling" width="100%" alt="Footer"/>
